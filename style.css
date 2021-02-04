@@ -129,7 +129,7 @@
   }
 }
 @media all and (max-width: 800px) {
-  #text {
+  #text, #author {
     font-size: 0.8em;
   }
 
@@ -148,7 +148,7 @@
   }
 }
 @media all and (max-width: 600px) {
-  #text {
+  #text, #author {
     font-size: 0.7em;
   }
 
