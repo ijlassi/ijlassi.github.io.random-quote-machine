@@ -115,8 +115,8 @@
   }
 
   #quote-box {
-    width: webkit-fit-content;
-    height: 19.2em;
+    width: 26em;
+    height: 17.2em;
     margin-left: 50%;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
@@ -134,8 +134,8 @@
   }
 
   #quote-box {
-    width: 26em;
-    height: 15em;
+    width: 24em;
+    height: 16em;
     margin-left: 50%;
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
